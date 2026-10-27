@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Git</title>
+  <g><path d="M240 90a23 23 0 0 1 33 0l149 149a23 23 0 0 1 0 33L273 421a23 23 0 0 1-33 0L91 272a23 23 0 0 1 0-33z" fill="#F97316"/>
+        <path d="M183 185l145 145M255 256v-71" stroke="#FFF7ED" stroke-width="15" stroke-linecap="round"/>
+        <circle cx="183" cy="185" r="23" fill="#FFF7ED"/><circle cx="328" cy="330" r="23" fill="#FFF7ED"/><circle cx="255" cy="185" r="23" fill="#FFF7ED"/></g>
+</svg>

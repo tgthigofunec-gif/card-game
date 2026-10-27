@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Chaves</title>
+  <g><path d="M175 102c-65 0-118 53-118 118s53 118 118 118c53 0 98-35 112-83h63v51h51v-51h42v-59H287c-14-54-59-94-112-94zm0 75a43 43 0 1 1 0 86 43 43 0 0 1 0-86z" fill="#06B6D4"/>
+        <path d="M235 222l44 44-44 44" fill="none" stroke="#ECFEFF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

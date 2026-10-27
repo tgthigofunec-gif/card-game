@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Banco De Dados</title>
+  <g><ellipse cx="256" cy="132" rx="137" ry="53" fill="#A78BFA"/>
+        <path d="M119 132v220c0 29 61 53 137 53s137-24 137-53V132" fill="#6D28D9"/>
+        <path d="M119 205c0 29 61 53 137 53s137-24 137-53M119 278c0 29 61 53 137 53s137-24 137-53" fill="none" stroke="#DDD6FE" stroke-width="12"/>
+        <ellipse cx="256" cy="132" rx="137" ry="53" fill="none" stroke="#DDD6FE" stroke-width="12"/></g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Interrogacao</title>
+  <g><circle cx="256" cy="256" r="172" fill="#172554" stroke="#60A5FA" stroke-width="14"/>
+        <path d="M190 190c7-48 43-75 87-75 48 0 82 29 82 73 0 38-21 57-53 78-28 18-39 34-39 63" fill="none" stroke="#F8FAFC" stroke-width="27" stroke-linecap="round"/>
+        <circle cx="267" cy="377" r="16" fill="#F8FAFC"/></g>
+</svg>
